@@ -37,5 +37,6 @@ The application will incorporate file handling techniques to ensure the persiste
 Error Handling:
 
 To enhance user experience, the application will implement robust error handling. This includes providing informative error messages and preventing crashes during unexpected scenarios.
+
 **Conclusion:**
 The To-Do List Application project strives to offer users a flexible and efficient solution for task management. Whether through a command-line or GUI interface, users can easily create, update, and track their to-do lists, contributing to enhanced organization and productivity in their daily lives.
