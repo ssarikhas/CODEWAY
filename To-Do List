@@ -146,3 +146,6 @@ if __name__ == "__main__":
     guiWindow.mainloop()  
     the_connection.commit()  
     the_cursor.c
+
+
+
