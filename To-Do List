@@ -1,5 +1,5 @@
-#Task 1 Given by CodSoft
-# python program to creat a todo list
+#Task 1 Given by CodeWay
+# python program to create a todo list
 
 
 from tkinter import *
