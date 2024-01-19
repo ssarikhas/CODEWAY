@@ -2,6 +2,7 @@
 **In this repository, there are 3 projects that I am working on to fulfill my internship requirements at CODEWAY.**
 
 **Project 01 : To-Do List Application**
+
 **Description:**
 The To-Do List application is a valuable tool designed to assist users in efficiently managing and organizing their tasks. This project focuses on creating a user-friendly application, utilizing either a command-line or GUI-based interface with Python. Users can seamlessly create, update, and track their to-do lists, providing a streamlined solution for task organization.
 
@@ -42,6 +43,7 @@ To enhance user experience, the application will implement robust error handling
 The To-Do List Application project strives to offer users a flexible and efficient solution for task management. Whether through a command-line or GUI interface, users can easily create, update, and track their to-do lists, contributing to enhanced organization and productivity in their daily lives.
 
 **Project 02: Basic GUI Calculator**
+
 **Project Description:**
 The "Basic GUI Calculator" is a Python-based application designed to provide users with an intuitive graphical interface for fundamental arithmetic calculations. Developed using the Tkinter library, this calculator offers simplicity and user-friendliness with dedicated buttons for numbers, arithmetic operators, and a display field. The project's primary goal is to deliver a straightforward and accessible calculator interface, enabling users to effortlessly perform everyday mathematical operations.
 
@@ -89,6 +91,7 @@ Incorporation of a theme switcher to offer different visual styles for the calcu
 The "Basic GUI Calculator" stands as a user-friendly Python application, delivering simplicity and efficiency for fundamental arithmetic calculations through an intuitive graphical interface. Features such as real-time input display and error handling enhance the overall user experience. With potential enhancements, the application has the potential to accommodate advanced calculations and cater to diverse user preferences, expanding its versatility.
 
 **Project 03: Secure Password Generator**
+
 **Project Description:**
 The "Secure Password Generator" is a Python-based application dedicated to generating robust and secure random passwords. With a command-line interface, users can tailor password length and include specific character types, contributing to enhanced online security practices.
 
