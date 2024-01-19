@@ -1,3 +1,5 @@
+**Basic GUI Calculator**
+
 import tkinter as tk
 
 def on_click(event):
@@ -59,8 +61,7 @@ create_button("C", 6, 0, 3)
 
 root.mainloop()
 
-
-#Simple Calculator.
+**Simple Calculator**
 
 def add(a, b):
     return a + b  
