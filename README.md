@@ -87,3 +87,46 @@ Incorporation of a theme switcher to offer different visual styles for the calcu
 
 **Conclusion:**
 The "Basic GUI Calculator" stands as a user-friendly Python application, delivering simplicity and efficiency for fundamental arithmetic calculations through an intuitive graphical interface. Features such as real-time input display and error handling enhance the overall user experience. With potential enhancements, the application has the potential to accommodate advanced calculations and cater to diverse user preferences, expanding its versatility.
+
+**Project 03: Secure Password Generator**
+**Project Description:**
+The "Secure Password Generator" is a Python-based application dedicated to generating robust and secure random passwords. With a command-line interface, users can tailor password length and include specific character types, contributing to enhanced online security practices.
+
+**Features:**
+
+Random Password Generation:
+
+Utilizes Python's random module to ensure the uniqueness and unpredictability of each password.
+Customizable Password Length:
+
+Users can specify desired password length, accommodating various security requirements.
+Character Types Inclusion:
+
+Flexibility to include character types (uppercase letters, lowercase letters, digits, and special symbols) ensures adherence to specific complexity criteria.
+Clipboard Copying:
+
+Allows users to copy generated passwords to the clipboard, facilitating seamless integration into registration or login forms.
+User Input Validation:
+
+Implements input validation to ensure user preferences (password length, character types) fall within valid ranges.
+Technical Details:
+
+Developed in Python, leveraging the random module for password generation.
+Utilizes Python's string module to store character sets for different types of characters.
+Employs a command-line interface for user interactions.
+Incorporates the pyperclip library to enable copying generated passwords to the clipboard.
+User Interaction:
+
+Enter the desired password length (e.g., 12 characters).
+Choose character types to include (e.g., uppercase letters, lowercase letters, digits, special symbols).
+The application generates the password based on user preferences, displaying it on the screen.
+Optionally, users can copy the generated password to the clipboard for immediate use.
+Potential Enhancements:
+To further enrich the project, consider implementing features like:
+
+Saving generated passwords to a file for future reference.
+Implementing a graphical user interface (GUI) for a more user-friendly experience.
+Incorporating password strength evaluation to provide feedback on the generated password's security.
+
+**Conclusion:**
+The "Secure Password Generator" is a practical Python application, empowering users to create strong and secure random passwords tailored to their preferences. Offering customization options for password length and character types, the project promotes enhanced online security practices. With potential enhancements, the application can continue assisting users in safeguarding their accounts and sensitive information against potential cyber threats.
