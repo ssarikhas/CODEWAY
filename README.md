@@ -133,3 +133,41 @@ Incorporating password strength evaluation to provide feedback on the generated 
 
 **Conclusion:**
 The "Secure Password Generator" is a practical Python application, empowering users to create strong and secure random passwords tailored to their preferences. Offering customization options for password length and character types, the project promotes enhanced online security practices. With potential enhancements, the application can continue assisting users in safeguarding their accounts and sensitive information against potential cyber threats.
+
+**Project 04: Quiz Game in Python** 
+
+**Overview**
+This is a simple quiz game implemented in Python, designed to test and enhance your knowledge on various topics. The game reads questions from a JSON file, presents them to the user, and checks their answers.
+
+**Features**
+User-Friendly Interface: The game offers a straightforward command-line interface for a seamless user experience.
+
+Customizable Questions: Questions are stored in a JSON file (assets/questions.json), allowing you to easily customize and expand the question database.
+
+Scoring System: Keep track of your score as you progress through the quiz. Challenge yourself to achieve a perfect score!
+
+How to Play
+Clone the repository to your local machine.
+
+bash
+Copy code
+git clone https://github.com/your-username/quiz-game-python.git
+cd quiz-game-python
+Run the game using Python.
+
+bash
+Copy code
+python app.py
+Answer the questions presented and see how well you score!
+
+Customization
+Feel free to modify the questions.json file to add, remove, or edit questions. Make the game your own by tailoring it to your interests or educational needs.
+
+Dependencies
+The game requires Python 3.x. No additional dependencies are needed.
+
+Contribution
+Contributions are welcome! If you have ideas for improvements, new features, or bug fixes, please submit a pull request.
+
+License
+This project is licensed under the MIT License.
