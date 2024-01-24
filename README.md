@@ -1,5 +1,5 @@
 # CODEWAY
-**In this repository, there are 3 projects that I am working on to fulfill my internship requirements at CODEWAY.**
+**In this repository, there are 4 projects that I am working on to fulfill my internship requirements at CODEWAY.**
 
 **Project 01 : To-Do List Application**
 
